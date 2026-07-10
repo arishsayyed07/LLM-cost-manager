@@ -1,0 +1,6 @@
+{
+  "name": "LLM Cost Monitoring Dashboard",
+  "description": "An interactive real-time dashboard to monitor, track, and optimize multi-model LLM API costs across departments, with custom budget alerts, query playgrounds, and Chrome Extension simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
